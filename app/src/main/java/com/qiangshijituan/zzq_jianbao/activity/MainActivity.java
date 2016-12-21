@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
         tv.setText(textid);
         imgs.setBackgroundResource(imgid);
         return view;
+
     }
 
 
